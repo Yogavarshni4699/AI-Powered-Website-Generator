@@ -65,7 +65,8 @@ AI-Based Content Generation: **GPT-4 and LLaMA 2** AI for Code and Structure Gen
 Templates:
 Created Industry specific templates to give context specific injection to LLM Models
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5d11e880-cfbc-4ea6-912a-20575d117a48/3726af26-89e4-4bec-a4ab-f018373ab2df/image.png)
+ETL:
+![image](https://github.com/user-attachments/assets/9ce29748-f7e9-4b88-ab6f-6164acdbc8b9)
 
 System FLow 
 ![image.png](attachment:81628209-40f2-4072-b60f-b7458ed7c200:image.png)
