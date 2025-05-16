@@ -69,10 +69,12 @@ ETL:
 ![image](https://github.com/user-attachments/assets/9ce29748-f7e9-4b88-ab6f-6164acdbc8b9)
 
 System FLow 
-![image.png](attachment:81628209-40f2-4072-b60f-b7458ed7c200:image.png)
+![image](https://github.com/user-attachments/assets/e9f0b96b-4f27-41cc-ad79-c9bd22e76d07)
+
 
 Prompt 
-https://www.notion.so/AI-Powered-Website-Generator-16a5280b487b80f9990beec63f60217e
+![image](https://github.com/user-attachments/assets/3f1f7c24-5a07-4517-9713-7656345a7bff)
+
 
 ### Challenges:
 
@@ -101,13 +103,14 @@ Large HTML generations with context-rich prompts increase token consumption, lat
 Current models lack precision in generating specific, brand-aligned images — requiring better integration or fallback assets.
 
 ### **LLM Generated Website:**
-![image.png](attachment:44d7211d-c45e-494a-a6e6-7da8c0125beb:image.png)
-![image.png](attachment:b6735662-2f80-414d-9061-9748435d3711:image.png)
+![image](https://github.com/user-attachments/assets/ddc53a82-a44c-46c3-be09-4eeff0df5929)
+![image](https://github.com/user-attachments/assets/ab36c69c-54de-4aa6-b5c1-7d6dcf004baf)
+
+
 
 Metrics:
-![image.png](attachment:c8a47377-7c56-4806-99ad-c2e8679eea3f:image.png)
+![image](https://github.com/user-attachments/assets/5e48cb4e-3dbb-4840-8c89-3c0c579337ed)
 
-![image.png](attachment:4d727884-bd10-493e-9e62-d881357f32cf:image.png)
 
 **Perplexity is a metric used to measure how well a language model predicts a sample of text. It reflects the model's confidence in its predictions:**
 
@@ -115,20 +118,22 @@ Metrics:
 
 **Higher Perplexity = Worse performance (less confident, more “surprised” by the data)**
 
-![image.png](attachment:a9e3cb0e-07f9-4279-ba6a-a4b752a7d5a5:image.png)
-**Gemini 1.5 Pro is the most verbose — it uses the most tokens for the same prompt.**
+![image](https://github.com/user-attachments/assets/ed59a8e6-c353-4e07-aaf8-a82e8ba01785)
 
+**Gemini 1.5 Pro is the most verbose — it uses the most tokens for the same prompt.**
 **OpenAI GPT-4 is the most concise — uses the least tokens, indicating it may be more efficient in encoding or producing more compressed language.**
-![image.png](attachment:270397be-c4bc-4335-bf6c-2207b11f54c8:image.png)
-![image.png](attachment:6295fb0f-dce0-4af3-b35e-ec3a8345511e:image.png)
+
+![image](https://github.com/user-attachments/assets/4aaaeb80-41b8-4f3f-b9fa-16badb096aad)
+![image](https://github.com/user-attachments/assets/21fb0cba-6433-44a2-ab11-569e06236ab0)
+
 **Claude models are more token-heavy per word — their tokenization is more expensive (3 tokens per word).**
 
 **OpenAI and Gemini are more efficient in terms of token usage per word (~1.4 tokens/word).**
 
 **This matters if you're billed per token — Claude outputs are costlier per word.**
 
-![image.png](attachment:7f3581c7-5318-4bfd-bc6e-eb9578dd3fc9:image.png)
-![image.png](attachment:8b34fdc8-8626-4098-ba10-f3e1a05339b7:image.png)
+![image](https://github.com/user-attachments/assets/7a1d966b-c829-46af-8e04-6fd6215cab56)
+
 
 
 ### Conclusion:
